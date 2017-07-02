@@ -1,0 +1,17 @@
+/*html {
+    cursor: none;
+}*/
+
+@font-face {
+    font-family: 'kenvector_futureregular';
+    src: url('../assets/Font/kenvector_future-webfont.woff2') format('woff2'),
+         url('../assets/Font/kenvector_future-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.workarround
+{
+    font-family: 'kenvector_futureregular';
+    position: absolute;   
+}
